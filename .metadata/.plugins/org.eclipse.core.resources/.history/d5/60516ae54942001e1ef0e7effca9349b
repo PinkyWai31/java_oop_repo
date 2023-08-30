@@ -1,0 +1,14 @@
+package oobpackage;
+
+public interface Shape{
+	public interface Shape {
+		public double area();
+		public double perimeter();
+		}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
